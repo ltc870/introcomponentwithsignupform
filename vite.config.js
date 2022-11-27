@@ -4,7 +4,7 @@ import autoprefixer from "autoprefixer";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: "/pingsinglecolumncomingsoon/",
+    base: "/introcomponentwithsignupform/",
     css: {
         postcss: {
             plugins: [autoprefixer],
