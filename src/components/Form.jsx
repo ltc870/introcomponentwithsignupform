@@ -64,7 +64,7 @@ const Form = () => {
     }
 
     return (
-        <div className="form-container">
+        <main className="form-container">
             <div className="subtitle-container">
                 <h2 className="subtitle">
                     <span className="subtitle-accent">Try it free 7 days</span>{" "}
@@ -170,7 +170,7 @@ const Form = () => {
                     </span>
                 </p>
             </form>
-        </div>
+        </main>
     );
 };
 
